@@ -1,0 +1,38 @@
+body {
+	background-color: darkolivegreen;
+}
+
+.mainHeadline {
+	background-color: lightgray;
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 5px;
+	text-align: center;
+}
+.firstBlog {
+	background-color: beige;
+	font-family: 'Crimson Text', serif;
+	font-size: 1.25em;
+	color: saddlebrown;
+	line-height: 45px;
+	padding: 0;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.secondBlog {
+	background-color: lightblue;
+	font-family: 'Exo', sans-serif;
+	font-size: .95em;
+	color: navy;
+	line-height: 40px;
+	padding: auto;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	border-radius: 100px;
+	text-align: center;
+}
